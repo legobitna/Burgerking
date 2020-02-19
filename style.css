@@ -1,0 +1,57 @@
+nav {
+    background-color: orange;
+    padding-left: 30px;
+    
+    display: flex;
+    align-items:center;
+}
+
+.nav-item{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left:20px;
+}
+.main-pic {
+    width: 100%;
+    
+}
+.aboutus-title {
+    background-color: grey;
+    color:white;
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.aboutus-contents {
+    font-size:30px;
+}
+
+.contents {
+    text-align: center;
+    padding-left:200px;
+    padding-right:200px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #522e1deb;
+    color: white;
+    padding: 20px;
+    position: relative;
+    bottom:0;
+    width: 100%;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
+
+  
